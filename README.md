@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/Pierre-mg/Pierre-mg/blob/master/img/thumb-1920-584816.jpg)
