@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello !!! 👋
 
 <!--
 **Pierre-mg/Pierre-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Cover](https://github.com/Pierre-mg/Pierre-mg/blob/main/img/thumb-1920-584816.jpg)
